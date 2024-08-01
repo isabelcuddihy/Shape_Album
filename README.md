@@ -81,16 +81,6 @@ shape-image-album/
 
 ```
 
-## Screenshots
-
-Here are some screenshots of the Shape Image Album in action:
-
-### Image 1: Main Interface
-
-### Image 2: Viewing an Image
-
-### Image 3: Exported HTML
-
 ## Technologies Used
 
 - Java
@@ -101,7 +91,7 @@ Here are some screenshots of the Shape Image Album in action:
 
 ## Development Details
 
-This project was developed at Northeastern University and follows the Model-View-Controller (MVC) architecture. It adheres to Object-Oriented Programming (OOP) principles, ensuring optimized, maintainable, and flexible code. The dynamic photo album application parses data and layers shape objects to generate images, providing an engaging user experience.
+This project was developed at Northeastern University for my Java Course in Object Oriented Programming and follows the Model-View-Controller (MVC) architecture. It adheres to Object-Oriented Programming (OOP) principles, ensuring optimized, maintainable, and flexible code. The dynamic photo album application parses data and layers shape objects to generate images, providing an engaging user experience.
 
 ## Contributing
 
